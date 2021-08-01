@@ -3,6 +3,9 @@
  I have re-created the Netflix landing page using HTML, CSS and a bit of JavaScript for the tabs. I used modern CSS3+ techniques like Grid, Flex, overlays, shadows, etc
 
  # Links
+ Application repository: 
+ 
+ Deployed application: https://mahmoudcali02.github.io/netflix-landing-page/#index.html
 
  # Screenshots
 ![home page screenshot](assets/images/home-page.png)
